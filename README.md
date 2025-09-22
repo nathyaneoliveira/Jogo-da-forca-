@@ -1,4 +1,4 @@
-# 🎮 Jogo da Forca em C
+# 🎮 Jogo da forca em C
 
 ## Descrição
 Este projeto implementa o clássico **Jogo da Forca** utilizando a linguagem **C**.  
